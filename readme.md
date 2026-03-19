@@ -1,5 +1,6 @@
-# Hi, I'm Ian Valeta
+I have been enjoying web development for the first time ever since I attending and winning my first hackathon hosted by Well4Tech and seeing all the cool projects that were built using web technologies. Up to that point I built game development projects, and spent substantial time 3D modeling using Blender and building projects using Unity and Unreal Engine.
 
-- I've been primarily coding with Javascript for the past 2 years
-- I'm refreshing my OOP skills at the moment on [Coursera | University of Alberta](https://www.coursera.org/learn/object-oriented-design)
-- You can connect with me on [LinkedIn](https://www.linkedin.com/in/ianvaleta/)
+I am currently on the look out for a role in full-stack web development, ideally writing in TypeScript and/or Python. I would love to work at a startup that is pre-product-market-fit and has a team that is customer-obsessed. If you're hiring, let's chat.
+
+- [LinkedIn](https://www.linkedin.com/in/ianvaleta/)
+- [valeta.iac@gmail.com](mailto:valeta.iac@gmail.com)

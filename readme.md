@@ -1,8 +1,10 @@
-I'm learning as much as I can about engineering, marketing, finance, sales, and operations with one goal in mind: building a successful software startup on my third attempt.
+I'm currently learning C++ on my free time. 
 
 ---
 
-**If you're hiring, let's chat.**
+**Here's where you can find me.**
+
+[ian-val.com](https://www.ian-val.com/)
 
 [linkedin.com/in/ianvaleta/](https://www.linkedin.com/in/ianvaleta/)
 
